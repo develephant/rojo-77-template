@@ -9,8 +9,7 @@ local ServerScriptService = game:GetService("ServerScriptService")
 local SystemModule = require(ServerScriptService:WaitForChild("System"))
 local PlayModule = require(ServerScriptService:WaitForChild("Play"))
 
-SystemModule.Init()
-PlayModule.Init( SystemModule)
+PlayModule.Init( SystemModule )
 
 --============================================================================--
 -- Export
