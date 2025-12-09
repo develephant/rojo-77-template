@@ -14,14 +14,10 @@ Simple Starter Template
 
 ## Modules
 
-Server module is broken into two parts:
+|Module|Usage|
+|-------|------|
+|`Play`|Game specific functionality.|
+|`System`|General game experience engine.|
 
-### Play
-
-Game specific functionality.
-
-### System
-
-General experience engine.
 
 _More documentation coming..._
