@@ -1,2 +1,3 @@
-# rojo-77-template
-A project template for Rojo 7.7
+# Rojo 7.7 RC
+
+Simple Starter Template
